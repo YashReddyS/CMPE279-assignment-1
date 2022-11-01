@@ -1,6 +1,6 @@
 # CMPE279-assignment-1
 
-## TEAM MEMBERS
+## TEAM
 
 1. **Name:** Yashwanth Reddy Samala <br /> **SJSU ID:** 016014583
 2. **Name:** Satya V <br /> **SJSU ID:** 016085251
